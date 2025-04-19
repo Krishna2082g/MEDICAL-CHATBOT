@@ -1,0 +1,80 @@
+# Byte-compiled / optimized / DLL files
+_pycache_/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+lib64/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.whl
+MANIFEST.in
+*.manifest
+
+# PyInstaller / cx_Freeze
+build
+dist
+
+# Testing
+.tox/
+.coverage
+.coverage.*
+nosetests.xml
+coverage.xml
+*.egg-info
+*.pytest_cache
+
+# Environments
+.env
+venv
+env
+ENV
+pyvenv.cfg
+*.pth
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Poetry project-specific files
+poetry.lock
+
+# mypy cache
+.mypy_cache/
+
+# Flake8 cache
+.flake8
+
+# Ruff cache
+.ruff_cache/
+
+# Black cache
+.black_cache
+
+# Other common files
+*.log
+*.bak
+*.swp
+*.swo
+*.vmc
+*.ptvs_analysis.cache.ptvs
+.vscode/
+.idea/
+*.sqlite3
+_pypackages_/
+
+# OS Specific files (optional but recommended)
+.DS_Store
+Thumbs.db
